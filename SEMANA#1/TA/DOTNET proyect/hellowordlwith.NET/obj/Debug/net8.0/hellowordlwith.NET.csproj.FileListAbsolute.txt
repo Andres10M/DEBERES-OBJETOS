@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\bin\Debug\net8.0\hellowordlwith.NET.exe
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\bin\Debug\net8.0\hellowordlwith.NET.deps.json
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\bin\Debug\net8.0\hellowordlwith.NET.runtimeconfig.json
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\bin\Debug\net8.0\hellowordlwith.NET.dll
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\bin\Debug\net8.0\hellowordlwith.NET.pdb
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\hellowordlwith.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\hellowordlwith.NET.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\hellowordlwith.NET.AssemblyInfo.cs
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\hellowordlwith.NET.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\hellowordlwith.NET.sourcelink.json
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\hellowordlwith.NET.dll
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\refint\hellowordlwith.NET.dll
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\hellowordlwith.NET.pdb
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\hellowordlwith.NET.genruntimeconfig.cache
+C:\Users\Dell\Downloads\SEMANA 1\DEBERES-OBJETOS\SEMANA#1\TA\DOTNET proyect\hellowordlwith.NET\obj\Debug\net8.0\ref\hellowordlwith.NET.dll
