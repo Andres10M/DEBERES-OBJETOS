@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hellowordlwith.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c37939e55ed0e376725554dae28f3b039c2b335")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+839a1a9f8850174d6986c8e36d22487dffbaa587")]
 [assembly: System.Reflection.AssemblyProductAttribute("hellowordlwith.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hellowordlwith.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
