@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\hellowordlwith.NET.csproj": {}
+    "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\hellowordlwith.NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\hellowordlwith.NET.csproj": {
+    "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\hellowordlwith.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\hellowordlwith.NET.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\hellowordlwith.NET.csproj",
         "projectName": "hellowordlwith.NET",
-        "projectPath": "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\hellowordlwith.NET.csproj",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\hellowordlwith.NET.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\SEMANA 1\\preguntas-objetos-vespertino-ago24\\deberes-obejtos\\DEBERES-OBJETOS\\DEBERES-OBJETOS\\SEMANA#1\\TA\\DOTNET proyect\\hellowordlwith.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
