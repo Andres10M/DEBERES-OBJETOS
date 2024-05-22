@@ -1,0 +1,16 @@
+<!-- father.component.html -->
+<div style="padding: 20px;">
+  <nz-card nzTitle="Giuseppe Baldini 😎:">
+    <div class="borderVariables">
+      <div>Variable del Dueño:</div>
+      <div>parentMessageInput</div>
+      <div>childMessageEventOutput</div>
+    </div>
+    <div class="border">Cliente usando &#64;Output: <h3>{{ childMessageEventOutput }}</h3></div>
+    <app-child [parentMessageInput]="parentMessageInput" (childMessageEventOutput)="receiveMessage($event)">
+      <div class="border">Giuseppe Baldini usando &#64;ContentChild: <h3>Por este medio voy ha
+        enviarte una gran cantidad de perfumes(HTML escrito en el Padre) con el fin de surtir a toda la comunidad </h3></div>
+    </app-child>
+
+  </nz-card>
+</div>
